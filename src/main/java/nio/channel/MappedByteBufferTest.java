@@ -1,4 +1,4 @@
-package ibmdw.nio.nio_read_write;
+package nio.channel;
 
 import java.io.BufferedInputStream;
 import java.io.File;

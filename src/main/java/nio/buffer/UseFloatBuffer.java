@@ -1,4 +1,4 @@
-package ibmdw.nio.buffer;
+package nio.buffer;
 
 import java.nio.*;
 
