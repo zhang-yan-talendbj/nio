@@ -1,4 +1,4 @@
-package ibmdw.nio.nio_read_write;
+package nio.nio_read_write;
 
 import java.io.*;
 import java.nio.*;

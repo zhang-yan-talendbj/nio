@@ -1,6 +1,5 @@
-package ibmdw.nio;// $Id$
+package nio;// $Id$
 
-import java.io.*;
 import java.net.*;
 import java.nio.*;
 import java.nio.channels.*;

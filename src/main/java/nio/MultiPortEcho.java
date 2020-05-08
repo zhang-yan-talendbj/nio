@@ -1,4 +1,4 @@
-package ibmdw.nio;// $Id$
+package nio;// $Id$
 
 import java.io.*;
 import java.net.*;
